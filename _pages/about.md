@@ -27,6 +27,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Number Theory, Representation Theory, Harmonic Analysis, and Langlands Program. 
 
 ## Publications
--- Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n) 
+-- Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n) [arxiv](https://arxiv.org/pdf/2303.02225.pdf)
 -- [click paper name](https://paper)
--- Relative Trace Formula and Twisted L-functions: Hybrid Subconvex Bounds I
+# Relative Trace Formula and Twisted L-functions: Hybrid Subconvex Bounds I
