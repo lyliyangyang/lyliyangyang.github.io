@@ -28,3 +28,8 @@ Number Theory, Representation Theory, Harmonic Analysis, and Langlands Program.
 
 ## Publications
 * Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n) \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
+
+
+* Relative Trace Formula and twisted L-functions: the Burgess Bound \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
+
+
