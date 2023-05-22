@@ -17,10 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an instructor at Princeton University 
+I am an instructor at the Department of Mathematics at Princeton University, where I am actively involved in teaching and conducting research. 
 
 ## Research Interest
-Number Theory, Representation Theory, Harmonic Analysis, and Langlands Program. 
+My research interests primarily revolve around Number Theory, Representation Theory, Harmonic Analysis, and the Langlands Program. 
 
 ## Publications
 * Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n) \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
