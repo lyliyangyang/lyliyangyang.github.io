@@ -28,4 +28,8 @@ My research interests primarily revolve around Number Theory, Representation The
 
 * Relative Trace Formula and twisted L-functions: the Burgess Bound \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
+* Nonvanihsing of Twists of $\mathrm{GL}(4)$ $L$-function \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
+
+* Arithmetic Distribution of Tempered Components of Cuspidal Representations on $\mathrm{GL}(3)$
+
 
