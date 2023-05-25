@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I am an instructor at the Department of Mathematics at Princeton University, where I am actively involved in teaching and conducting research. 
 
 ## Research Interest
-My research interests primarily revolve around Number Theory, Representation Theory, Harmonic Analysis, and the Langlands Program. One of my main research interest is relative trace formula 
+My research interests primarily revolve around Number Theory, Representation Theory, Harmonic Analysis, and the Langlands Program. One of my main research interest is (relative) trace formula 
 
 ## Preprints and Publications
 
@@ -54,6 +54,9 @@ My research interests primarily revolve around Number Theory, Representation The
 * Diophantine Inequalities Involving a Prime and an Almost-prime, Journal of Number Theory, 170 (2017), 347-367. \[[pdf](https://www.sciencedirect.com/science/article/pii/S0022314X1630124X)\] 
 
 * (with Daniel Goldston) The Average Number of Goldbach Representations, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[arxiv](https://arxiv.org/pdf/1601.06902.pdf)\] 
+
+
+
 
 
 
