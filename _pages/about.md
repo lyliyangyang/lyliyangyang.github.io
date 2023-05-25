@@ -42,6 +42,20 @@ My research interests primarily revolve around Number Theory, Representation The
 
 * Holomorphy of Adjoint L-functions for $\mathrm{GL}(n):$ $n\leq 4.$ Mathematische Annalen (2021), 1745-1805.
 
+* Average of Dirichlet Coefficients of Cuspidal Representations Related to $\mathrm{GL}(2)$. The Ramanujan Journal 56.1 (2021): 203-234. 
+
+* (with Dinakar Ramakrishnan) A Constraint for Twist Equivalence of Cusp Forms on $\mathrm{GL}(n).$ Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117.
+
+* \emph{An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields}, Pacific Journal of Mathematics 304.1 (2020): 347-384. 
+
+* \emph{Diophantine Inequalities Involving a Prime and an Almost-prime}, Journal of Number Theory, 170 (2017), 347-367.
+
+* (with Daniel Goldston) \emph{The Average Number of Goldbach Representations}, in \emph{Prime numbers and representation theory}, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12.
+
+
+
+
+
 
 
 
