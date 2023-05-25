@@ -24,7 +24,7 @@ My research interests primarily revolve around Number Theory, Representation The
 
 ## Preprints and Publications
 
-*  \emph{Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg $L$-functions for $\mathrm{GL}(n+1)\times\mathrm{GL}(n)$}.\ Preprint. (2023)
+*  Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg $L$-functions for $\mathrm{GL}(n+1)\times\mathrm{GL}(n)$.\ Preprint. (2023)
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  $\mathrm{U}(3)\times \mathrm{U}(2)$, Relative Trace Formula and Subconvexity.
 
@@ -49,11 +49,11 @@ My research interests primarily revolve around Number Theory, Representation The
 
 * (with Dinakar Ramakrishnan) A Constraint for Twist Equivalence of Cusp Forms on $\mathrm{GL}(n).$ Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117.
 
-* \emph{An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields}, Pacific Journal of Mathematics 304.1 (2020): 347-384. 
+* An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields, Pacific Journal of Mathematics 304.1 (2020): 347-384. 
 
-* \emph{Diophantine Inequalities Involving a Prime and an Almost-prime}, Journal of Number Theory, 170 (2017), 347-367.
+* Diophantine Inequalities Involving a Prime and an Almost-prime, Journal of Number Theory, 170 (2017), 347-367.
 
-* (with Daniel Goldston) \emph{The Average Number of Goldbach Representations}, in \emph{Prime numbers and representation theory}, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12.
+* (with Daniel Goldston) The Average Number of Goldbach Representations, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12.
 
 
 
