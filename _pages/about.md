@@ -43,17 +43,17 @@ My research interests primarily revolve around Number Theory, Representation The
 
 * A Coarse Jacquet-Zagier Trace Formula for $\mathrm{GL}(n)$ with Applications. Preprint. (2021)
 
-* Holomorphy of Adjoint L-functions for $\mathrm{GL}(n):$ $n\leq 4.$ Mathematische Annalen (2021), 1745-1805.
+* Holomorphy of Adjoint L-functions for $\mathrm{GL}(n):$ $n\leq 4.$ Mathematische Annalen (2021), 1745-1805. \[[pdf] (https://link.springer.com/article/10.1007/s00208-021-02189-4)\]
 
-* Average of Dirichlet Coefficients of Cuspidal Representations Related to $\mathrm{GL}(2)$. The Ramanujan Journal 56.1 (2021): 203-234. 
+* Average of Dirichlet Coefficients of Cuspidal Representations Related to $\mathrm{GL}(2)$. The Ramanujan Journal 56.1 (2021): 203-234. \[[pdf] (https://link.springer.com/article/10.1007/s11139-020-00360-0)\]
 
-* (with Dinakar Ramakrishnan) A Constraint for Twist Equivalence of Cusp Forms on $\mathrm{GL}(n).$ Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117.
+* (with Dinakar Ramakrishnan) A Constraint for Twist Equivalence of Cusp Forms on $\mathrm{GL}(n).$ Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117. \[[pdf] (https://arxiv.org/pdf/1906.01047.pdf)\] 
 
-* An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields, Pacific Journal of Mathematics 304.1 (2020): 347-384. 
+* An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields, Pacific Journal of Mathematics 304.1 (2020): 347-384. \[[pdf] (https://arxiv.org/pdf/1801.05562.pdf)\]
 
-* Diophantine Inequalities Involving a Prime and an Almost-prime, Journal of Number Theory, 170 (2017), 347-367.
+* Diophantine Inequalities Involving a Prime and an Almost-prime, Journal of Number Theory, 170 (2017), 347-367. \[[pdf] (https://www.sciencedirect.com/science/article/pii/S0022314X1630124X)\] 
 
-* (with Daniel Goldston) The Average Number of Goldbach Representations, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12.
+* (with Daniel Goldston) The Average Number of Goldbach Representations, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[pdf] (https://arxiv.org/pdf/1601.06902.pdf)\] 
 
 
 
