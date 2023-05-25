@@ -32,7 +32,7 @@ My research interests primarily revolve around Number Theory, Representation The
 * Relative Trace Formula and twisted L-functions: the Burgess Bound. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
 
-* Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n). \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
+* Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n). 80 pages. \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
 
 
 * (with Maksym Radziwill) Nonvanihsing of Twists of $\mathrm{GL}(4)$ $L$-function. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
