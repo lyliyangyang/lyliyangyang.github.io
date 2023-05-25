@@ -24,13 +24,16 @@ My research interests primarily revolve around Number Theory, Representation The
 
 ## Preprints and Publications
 
+*  \emph{Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg $L$-functions for $\mathrm{GL}(n+1)\times\mathrm{GL}(n)$}.\ Preprint. (2023)
+
 *  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  $\mathrm{U}(3)\times \mathrm{U}(2)$, Relative Trace Formula and Subconvexity.
+
+
+* Relative Trace Formula and twisted L-functions: the Burgess Bound. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
 
 * Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n). \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
 
-
-* Relative Trace Formula and twisted L-functions: the Burgess Bound. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
 * Nonvanihsing of Twists of $\mathrm{GL}(4)$ $L$-function. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
 
