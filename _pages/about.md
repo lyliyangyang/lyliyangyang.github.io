@@ -36,7 +36,7 @@ My research interests primarily revolve around Number Theory, Representation The
 
 * Arithmetic Distribution of Tempered Components of Cuspidal Representations on $\mathrm{GL}(3).$ Mathematische Zeitschrift 303.3 (2023): 66. \[[pdf](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
-*  (with Liubomir Chiriac) Summing Hecke Eigenvalues over Polynomials.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[pdf](https://link.springer.com/article/10.1007/s00209-022-03071-y\]
+*  (with Liubomir Chiriac) Summing Hecke Eigenvalues over Polynomials.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[pdf](https://link.springer.com/article/10.1007/s00209-022-03071-y)\]
 
 * A Coarse Jacquet-Zagier Trace Formula for $\mathrm{GL}(n)$ with Applications 
 
