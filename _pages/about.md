@@ -26,7 +26,7 @@ My research interests primarily revolve around Number Theory, Representation The
 
 *  Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg $L$-functions for $$\mathrm{GL}(n+1)\times\mathrm{GL}(n)$$. Preprint. (2023)
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  $\mathrm{U}(3)\times \mathrm{U}(2)$, Relative Trace Formula and Subconvexity. Preprint. (2023)
+*  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  $$\mathrm{U}(3)\times \mathrm{U}(2)$$, Relative Trace Formula and Subconvexity. Preprint. (2023)
 
 
 * Relative Trace Formula and twisted L-functions: the Burgess Bound. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
@@ -35,7 +35,7 @@ My research interests primarily revolve around Number Theory, Representation The
 * Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n). 80 pages. \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
 
 
-* (with Maksym Radziwill) Nonvanihsing of Twists of $\mathrm{GL}(4)$ $L$-function. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
+* (with Maksym Radziwill) Nonvanihsing of Twists of $$\mathrm{GL}(4)$$ $$L$$-function. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
 
 * Arithmetic Distribution of Tempered Components of Cuspidal Representations on $\mathrm{GL}(3).$ Mathematische Zeitschrift 303.3 (2023): 66. \[[pdf](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
