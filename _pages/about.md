@@ -29,7 +29,7 @@ My research interests primarily revolve around Number Theory, Representation The
 *  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  U(3)$$\times$$ U(2), Relative Trace Formula and Subconvexity. 150 pages. Preprint. (2023)
 
 
-* Relative Trace Formula and twisted L-functions: the Burgess Bound. 47 pages. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
+* Relative Trace Formula and twisted L-functions: the Burgess Bound. 46 pages. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
 
 * Relative Trace Formula and L-functions for GL(n+1)$$\times$$ GL(n). 80 pages. \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
