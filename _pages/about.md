@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: <a href='#'>Instructor at Princeton University </a>. 
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -56,10 +58,7 @@ My research interests primarily revolve around Number Theory, Representation The
 * (with Daniel Goldston) The Average Number of Goldbach Representations, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[arxiv](https://arxiv.org/pdf/1601.06902.pdf)\] 
 
 
-\$\otimes\$
- 
 
-\$\em{This is ok \$\boxplus\$}\$
 
 
 
