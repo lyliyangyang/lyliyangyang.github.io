@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: <a href='#'>Instructor at Princeton University </a>. 
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 
 profile:
   align: right
