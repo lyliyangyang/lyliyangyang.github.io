@@ -58,5 +58,5 @@ My research interests primarily revolve around Number Theory, Representation The
 * (with Daniel Goldston) The Average Number of Goldbach Representations, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[arxiv](https://arxiv.org/pdf/1601.06902.pdf)\] 
 
 
-{% include blog/math.html %}
+$\mathrm{GL}(n)\times\mathrm{GL}(m)$ 
 
