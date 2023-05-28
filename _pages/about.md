@@ -43,21 +43,21 @@ My research interests primarily revolve around number theory, representation the
 
 * (with Maksym Radziwill) *Nonvanihsing of Twists of GL(4) L-function*. Preprint. 45 pages. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
 
-* *Arithmetic Distribution of Tempered Components of Cuspidal Representations on GL(3)*. Mathematische Zeitschrift 303.3 (2023): 66. \[[link](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
+* *Arithmetic Distribution of Tempered Components of Cuspidal Representations on GL(3)*. Mathematische Zeitschrift 303.3 (2023): 66. \[[journal](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
-*  (with Liubomir Chiriac) *Summing Hecke Eigenvalues over Polynomials*.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[link](https://link.springer.com/article/10.1007/s00209-022-03071-y)\]
+*  (with Liubomir Chiriac) *Summing Hecke Eigenvalues over Polynomials*.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[journal](https://link.springer.com/article/10.1007/s00209-022-03071-y)\]
 
 * *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. Preprint. 67 pages.\[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
 
-* *Holomorphy of Adjoint L-functions for GL(n): n $$\leq$$ 4*. Mathematische Annalen (2021), 1745-1805. \[[link](https://link.springer.com/article/10.1007/s00208-021-02189-4)\]
+* *Holomorphy of Adjoint L-functions for GL(n): n $$\leq$$ 4*. Mathematische Annalen (2021), 1745-1805. \[[journal](https://link.springer.com/article/10.1007/s00208-021-02189-4)\]
 
-* *Average of Dirichlet Coefficients of Cuspidal Representations Related to GL(2)*. The Ramanujan Journal 56.1 (2021): 203-234. \[[link](https://link.springer.com/article/10.1007/s11139-020-00360-0)\]
+* *Average of Dirichlet Coefficients of Cuspidal Representations Related to GL(2)*. The Ramanujan Journal 56.1 (2021): 203-234. \[[journal](https://link.springer.com/article/10.1007/s11139-020-00360-0)\]
 
 * (with Dinakar Ramakrishnan) *A Constraint for Twist Equivalence of Cusp Forms on GL(n)*. Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117. \[[arxiv](https://arxiv.org/pdf/1906.01047.pdf)\] 
 
 * *An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields*, Pacific Journal of Mathematics 304.1 (2020): 347-384. \[[arxiv](https://arxiv.org/pdf/1801.05562.pdf)\]
 
-* *Diophantine Inequalities Involving a Prime and an Almost-prime*, Journal of Number Theory, 170 (2017), 347-367. \[[link](https://www.sciencedirect.com/science/article/pii/S0022314X1630124X)\] 
+* *Diophantine Inequalities Involving a Prime and an Almost-prime*, Journal of Number Theory, 170 (2017), 347-367. \[[journal](https://www.sciencedirect.com/science/article/pii/S0022314X1630124X)\] 
 
 * (with Daniel Goldston) *The Average Number of Goldbach Representations*, in Prime numbers and representation theory, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[arxiv](https://arxiv.org/pdf/1601.06902.pdf)\] 
 
