@@ -26,7 +26,7 @@ My research interests primarily revolve around Number Theory, Representation The
 
 ## Preprints and Publications
 
-* **Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for** *$$\mathrm{GL}(n+1)\times \mathrm{GL}(n)$$*. 78 pages. Preprint. (2023)
+* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$ GL(n)*. 78 pages. Preprint. (2023)
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  U(3)$$\times$$ U(2), Relative Trace Formula and Subconvexity. 150 pages. Preprint. (2023)
 
@@ -43,7 +43,7 @@ My research interests primarily revolve around Number Theory, Representation The
 
 *  (with Liubomir Chiriac) Summing Hecke Eigenvalues over Polynomials.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[pdf](https://link.springer.com/article/10.1007/s00209-022-03071-y)\]
 
-* A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications. Preprint. (2021)
+* A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications. Preprint. (2021)\[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
 
 * Holomorphy of Adjoint L-functions for GL(n): n$$\leq $$4. Mathematische Annalen (2021), 1745-1805. \[[pdf](https://link.springer.com/article/10.1007/s00208-021-02189-4)\]
 
