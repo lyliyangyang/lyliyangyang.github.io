@@ -19,14 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an instructor at the Department of Mathematics at Princeton University, where I am actively involved in teaching and conducting research. 
+I am currently an instructor at the Department of Mathematics at Princeton University. Prior to that, I received my PhD at Caltech under the supervision of Dinakar Ramakrishnan.
 
 You can find my CV \[[here](https://drive.google.com/drive/u/0/folders/16plb9urykbxGBkwVZEI2duUDliekxE7f)\].
 
 
 
 ## Research Interest
-My research interests primarily revolve around Number Theory, Representation Theory, Harmonic Analysis, and the Langlands Program. One of my main research interest is (relative) trace formula 
+My research interests primarily revolve around number theory, representation theory, harmonic analysis, and the Langlands Program. 
 
 ## Preprints and Publications
 
