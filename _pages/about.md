@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an instructor at the Department of Mathematics at Princeton University. Prior to that, I received my PhD at Caltech under the supervision of Dinakar Ramakrishnan.
+I am currently an instructor at the Department of Mathematics at Princeton University. Prior to that, I received my PhD at Caltech in 2021 under the supervision of Dinakar Ramakrishnan.
 
 You can find my CV \[[here](https://drive.google.com/drive/u/0/folders/16plb9urykbxGBkwVZEI2duUDliekxE7f)\].
 
