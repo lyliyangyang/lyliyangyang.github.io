@@ -21,6 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 I am an instructor at the Department of Mathematics at Princeton University, where I am actively involved in teaching and conducting research. 
 
+\[[CV](https://drive.google.com/drive/u/0/folders/16plb9urykbxGBkwVZEI2duUDliekxE7f)\]
+
+
+
 ## Research Interest
 My research interests primarily revolve around Number Theory, Representation Theory, Harmonic Analysis, and the Langlands Program. One of my main research interest is (relative) trace formula 
 
