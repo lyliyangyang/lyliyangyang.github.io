@@ -26,6 +26,8 @@ My research interests primarily revolve around Number Theory, Representation The
 
 ## Preprints and Publications
 
+* \emph{Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for GL(n+1)$$\times$$ GL(n). 78 pages. Preprint. (2023)}
+
 *  Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for GL(n+1)$$\times$$ GL(n). 78 pages. Preprint. (2023)
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) Nonvanishing of Bessel Periods on  U(3)$$\times$$ U(2), Relative Trace Formula and Subconvexity. 150 pages. Preprint. (2023)
