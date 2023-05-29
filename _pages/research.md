@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: Research
 permalink: /
 subtitle: #<a href='#'> </a>. 
 
