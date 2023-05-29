@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
+## Teaching
 
 * Fall 2023-- MAT 419 Topics in Number Theory: Modular Forms and L-functions
 

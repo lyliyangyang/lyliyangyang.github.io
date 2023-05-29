@@ -1,34 +1,14 @@
 ---
-layout: about
+layout: page
+permalink: /research/
 title: Research
-permalink: /
-subtitle: #<a href='#'> </a>. 
-
-
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    
-    
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+#description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 5
 ---
 
-I am currently an instructor at the Department of Mathematics at Princeton University. Prior to that, I received my PhD at Caltech in 2021 under the supervision of Dinakar Ramakrishnan.
 
-You can find my CV \[[here](https://drive.google.com/drive/u/0/folders/16plb9urykbxGBkwVZEI2duUDliekxE7f)\].
-
-
-
-## Research Interest
-My research interests primarily revolve around number theory, representation theory, harmonic analysis, and the Langlands Program. 
-
-## Preprints and Publications
+### Preprints and Publications
 
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 78 pages.
 
