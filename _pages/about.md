@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an instructor at the Department of Mathematics at Princeton University. Prior to that, I received my PhD at Caltech in 2021 under the supervision of Dinakar Ramakrishnan.
+I am currently an instructor at the Department of Mathematics at Princeton University. Prior to that, I received my PhD at Caltech in 2021 under the supervision of [Dinakar Ramakrishnan](http://www.its.caltech.edu/~dinakar/).
 
-You can find my [CV](https://drive.google.com/file/d/1ypjJviNNIY17LfnWbmvmUXajzQQKbfNL/view?usp=sharing).
+I can be reached at liyangy@princeton.edu. Here is my [CV](https://drive.google.com/file/d/1ypjJviNNIY17LfnWbmvmUXajzQQKbfNL/view?usp=sharing).
 
 
 
