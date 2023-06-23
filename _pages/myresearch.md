@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints and Publications
 
+* *Average of Central $L$-values for* *GL(2)$$\times$$ GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing* 
+
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 78 pages.
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Nonvanishing of Bessel Periods on  U(3)$$\times$$U(2), Relative Trace Formula and Subconvexity*. Preprint. 150 pages. 
