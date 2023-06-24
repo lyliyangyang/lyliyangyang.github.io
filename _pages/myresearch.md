@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Preprints and Publications
 
-* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing* 
+* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Preprint. 30 pages. 
 
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 78 pages.
 
