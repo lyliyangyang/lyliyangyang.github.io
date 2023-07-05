@@ -29,7 +29,7 @@ nav_order: 5
 
 *  (with Liubomir Chiriac) *Summing Hecke Eigenvalues over Polynomials*.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[journal](https://link.springer.com/article/10.1007/s00209-022-03071-y)\]
 
-* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. Preprint. 67 pages.\[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
+* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. Preprint. 70 pages.\[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
 
 * *Holomorphy of Adjoint L-functions for GL(n): n $$\leq$$ 4*. Mathematische Annalen (2021), 1745-1805. \[[journal](https://link.springer.com/article/10.1007/s00208-021-02189-4)\]
 
