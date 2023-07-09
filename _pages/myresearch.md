@@ -10,12 +10,11 @@ nav_order: 5
 
 ## Preprints and Publications
 
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Preprint. 148 pages. 
+
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 70 pages.
 
 * *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Preprint. 30 pages. 
-
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Preprint. 148 pages. 
-
 
 * *Relative Trace Formula and twisted L-functions: the Burgess Bound*. Preprint. 46 pages. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
