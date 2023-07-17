@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Preprints and Publications
 
-* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 70 pages.
+* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 77 pages.
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Preprint. 158 pages. 
 
