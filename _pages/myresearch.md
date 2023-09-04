@@ -10,19 +10,19 @@ nav_order: 5
 
 ## Preprints and Publications
 
-* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 77 pages.
+* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. 
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Preprint. 158 pages. 
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Preprint.  
 
-* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Preprint. 30 pages. \[[arxiv](https://arxiv.org/pdf/2307.05571v1.pdf)\]
+* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Preprint. \[[arxiv](https://arxiv.org/pdf/2307.05571v1.pdf)\]
 
-* *Relative Trace Formula and twisted L-functions: the Burgess Bound*. Preprint. 46 pages. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
-
-
-* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. Preprint. 80 pages. \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
+* *Relative Trace Formula and twisted L-functions: the Burgess Bound*. Preprint. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
 
-* (with Maksym Radziwill) *Nonvanihsing of Twists of GL(4) L-function*. Preprint. 45 pages. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
+* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. Preprint. \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
+
+
+* (with Maksym Radziwill) *Nonvanihsing of Twists of GL(4) L-function*. Preprint. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
 
 * *Arithmetic Distribution of Tempered Components of Cuspidal Representations on GL(3)*. Mathematische Zeitschrift 303.3 (2023): 66. \[[journal](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
