@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-## Preprints and Publications
+## Preprints and Publications 
 
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. \[[arxiv](https://arxiv.org/pdf/2309.07534.pdf)\]
 
