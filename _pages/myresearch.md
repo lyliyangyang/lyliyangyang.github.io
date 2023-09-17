@@ -19,7 +19,7 @@ nav_order: 5
 * *Relative Trace Formula and twisted L-functions: the Burgess Bound*. Preprint. \[[arxiv](https://arxiv.org/pdf/2305.10719.pdf)\]
 
 
-* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. Preprint. \[[arxiv](https://arxiv.org/pdf/2303.02225.pdf)\]
+* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. Preprint. \[[arxiv](https://arxiv.org/abs/2303.02225)\]
 
 
 * (with Maksym Radziwill) *Nonvanihsing of Twists of GL(4) L-function*. Preprint. \[[arxiv](https://arxiv.org/pdf/2304.09171.pdf)\] 
