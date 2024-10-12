@@ -26,5 +26,4 @@ I can be reached at liyangy@princeton.edu. Here is my [CV](https://drive.google.
 
 
 ## Research Interest
-My research interests primarily revolve around number theory, representation theory, harmonic analysis, and the Langlands Program. 
-
+My research interests primarily revolve around number theory, automorphic forms, harmonic analysis, representations of Lie and $p$-adic groups 
