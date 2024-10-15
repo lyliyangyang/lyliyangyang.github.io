@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints and Publications 
 
+*  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*. Preprint. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
+
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Preprint. \[[arxiv](https://arxiv.org/abs/2309.07534)\]  
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Preprint. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
