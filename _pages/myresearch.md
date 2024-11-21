@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints and Publications 
 
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for *$$\mathrm{GL}_3\times \mathrm{GL}_1$$* and *$$\mathrm{GL}_3\times \mathrm{GL}_2$$* L-functions*. Submitted. \[[arxiv](https://arxiv.org/abs/2411.12609)\] 
+
 *  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*. Submitted. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
 
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Submitted. \[[arxiv](https://arxiv.org/abs/2309.07534)\]  
