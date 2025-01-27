@@ -10,23 +10,23 @@ nav_order: 5
 
 ## Preprints and Publications 
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. Submitted. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. (2024). Submitted. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
 
-*  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*. Submitted. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
+*  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*. (2024). Submitted. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
 
-* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. Submitted. \[[arxiv](https://arxiv.org/abs/2309.07534)\]  
+* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2309.07534)\]  
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. Submitted. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
 
-* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Submitted. \[[arxiv](https://arxiv.org/abs/2307.05571)\]
+* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2307.05571)\]
 
-* *Relative Trace Formula and twisted L-functions: the Burgess Bound*. Submitted. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
-
-
-* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. Submitted. \[[arxiv](https://arxiv.org/abs/2303.02225)\]
+* *Relative Trace Formula and twisted L-functions: the Burgess Bound*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
 
 
-* (with Maksym Radziwill) *Nonvanishing of Twists of GL(4) L-function*. Submitted. \[[arxiv](https://arxiv.org/abs/2304.09171)\] 
+* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2303.02225)\]
+
+
+* (with Maksym Radziwill) *Nonvanishing of Twists of GL(4) L-function*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2304.09171)\] 
 
 * *Arithmetic Distribution of Tempered Components of Cuspidal Representations on GL(3)*. Mathematische Zeitschrift 303.3 (2023): 66. \[[journal](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
