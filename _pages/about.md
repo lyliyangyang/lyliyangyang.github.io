@@ -30,5 +30,5 @@ My research interests primarily revolve around:
 
 - Analytic and algebraic number theory
 - Automorphic forms and L-functions
-- Harmonic analysis, (relative) trace formulas
-- Representations of Lie and p-adic groups
+- Harmonic analysis, (relative) trace formulas, and spectral reciprocity 
+- Representation of Lie and p-adic groups
