@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-## Preprints and Publications 
+## Preprints 
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. (2024). Submitted. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
 
@@ -18,7 +18,6 @@ nav_order: 5
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
 
-* *Average of Central L-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2307.05571)\]
 
 * *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
 
@@ -28,11 +27,15 @@ nav_order: 5
 
 * (with Maksym Radziwill) *Nonvanishing of Twists of GL(4) L-function*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2304.09171)\] 
 
+## Publications 
+
+* *Average of Central L-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Transactions of the American Mathematical Society (2025). \[[arxiv](https://arxiv.org/abs/2307.05571)\]
+
+* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. Algebra and Number Theory (2025). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
+
 * *Arithmetic Distribution of Tempered Components of Cuspidal Representations on GL(3)*. Mathematische Zeitschrift 303.3 (2023): 66. \[[journal](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
 *  (with Liubomir Chiriac) *Summing Hecke Eigenvalues over Polynomials*.  Mathematische Zeitschrift 302.2 (2022): 643-662. \[[journal](https://link.springer.com/article/10.1007/s00209-022-03071-y)\]
-
-* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. (2021). Submitted. \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
 
 * *Holomorphy of Adjoint L-functions for GL(n): n $$\leq$$ 4*. Mathematische Annalen (2021), 1745-1805. \[[journal](https://link.springer.com/article/10.1007/s00208-021-02189-4)\]
 
