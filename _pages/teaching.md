@@ -9,6 +9,7 @@ nav_order: 5
 
 ## Teaching
 
+* Spring 2025 -- MAT 103 Calculus I
 
 * Fall 2024 -- MAT 203 Advanced Vector Calculus
 
