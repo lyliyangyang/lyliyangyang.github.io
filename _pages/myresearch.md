@@ -18,9 +18,9 @@ nav_order: 5
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
 
-* *Average of Central $L$-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2307.05571)\]
+* *Average of Central L-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2307.05571)\]
 
-* *Relative Trace Formula and twisted L-functions: the Burgess Bound*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
+* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
 
 
 * *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2303.02225)\]
