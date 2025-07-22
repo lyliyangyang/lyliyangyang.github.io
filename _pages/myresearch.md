@@ -31,7 +31,7 @@ nav_order: 5
 
 * *Average of Central L-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Transactions of the American Mathematical Society (2025). \[[arxiv](https://arxiv.org/abs/2307.05571)\]
 
-* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. Algebra and Number Theory (2025). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
+* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. Algebra $$\&$$ Number Theory (2025). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
 
 * *Arithmetic Distribution of Tempered Components of Cuspidal Representations on GL(3)*. Mathematische Zeitschrift 303.3 (2023): 66. \[[journal](https://link.springer.com/article/10.1007/s00209-023-03213-w)\]
 
