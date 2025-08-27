@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints 
 
+*  (with Zhining Wei and Shifan Zhao) *Low-lying Zeros of Hilbert Modular L-functions Weighted by Powers of Central L-values*. (2025). Submitted. \[[arxiv](https://arxiv.org/pdf/2508.18469)\] 
+
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. (2024). Submitted. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
 
 *  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*. (2024). Submitted. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
