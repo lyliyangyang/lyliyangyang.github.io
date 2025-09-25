@@ -11,7 +11,7 @@ nav_order: 5
 
 * Fall 2025 -- MA 191A Automorphic L-functions and Arithmetic 
 
-<br><br><br><br>
+---
 
 ## Teaching at Princeton 
 
