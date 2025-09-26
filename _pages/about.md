@@ -24,7 +24,6 @@ I am currently a Sherman Fairchild Postdoctoral Scholar Teaching Fellow at Calte
 I can be reached at lyyang@caltech.edu. Here is my [CV](https://drive.google.com/file/d/1L6QWHOefWmmFnDT0fnTJKxl-M-_6u03i/view?usp=sharing).
 
 
----
 
 
 ## Research Interest

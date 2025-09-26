@@ -21,6 +21,7 @@ nav_order: 5
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
 
 
+
 * *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. (2023). Submitted. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
 
 

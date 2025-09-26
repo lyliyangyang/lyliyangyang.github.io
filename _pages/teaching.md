@@ -9,11 +9,12 @@ nav_order: 5
 
 ## Teaching at Caltech
 
-* Fall 2025 -- MA 191A Automorphic L-functions and Arithmetic 
+* Fall 2025 -- MA 191A Automorphic L-functions and Arithmetic
+
 
 ---
 
-## Teaching at Princeton 
+## Teaching at Princeton {: style="margin-top: 2.5rem;"}
 
 * Spring 2025 -- MAT 103 Calculus I
 
