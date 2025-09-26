@@ -16,7 +16,7 @@ nav_order: 5
 
 <br><br><br>
 
-## Teaching at Princeton {: style="margin-top: 2.5rem;"}
+## Teaching at Princeton 
 
 * Spring 2025 -- MAT 103 Calculus I
 
