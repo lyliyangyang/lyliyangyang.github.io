@@ -45,7 +45,7 @@ nav_order: 5
 
 * *Average of Dirichlet Coefficients of Cuspidal Representations Related to GL(2)*. The Ramanujan Journal 56.1 (2021): 203-234. \[[journal](https://link.springer.com/article/10.1007/s11139-020-00360-0)\]
 
-* (with Dinakar Ramakrishnan) *A Constraint for Twist Equivalence of Cusp Forms on GL(n)*. Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117. \[[arxiv](https://arxiv.org/pdf/1906.01047)\] 
+* (with Dinakar Ramakrishnan) *A Constraint for Twist Equivalence of Cusp Forms on GL(n)*. Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117. \[[journal](https://projecteuclid.org/journals/functiones-et-approximatio-commentarii-mathematici/volume-65/issue-1/A-constraint-for-twist-equivalence-of-cusp-forms-on-GLn/10.7169/facm/1913.full)\] 
 
 * *An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields*, Pacific Journal of Mathematics 304.1 (2020): 347-384. \[[arxiv](https://arxiv.org/pdf/1801.05562)\]
 
