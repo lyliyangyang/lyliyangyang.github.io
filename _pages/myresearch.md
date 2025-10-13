@@ -47,7 +47,7 @@ nav_order: 5
 
 * (with Dinakar Ramakrishnan) *A Constraint for Twist Equivalence of Cusp Forms on GL(n)*. Functiones et Approximatio Commentarii Mathematici 65.1 (2021): 105-117. \[[journal](https://projecteuclid.org/journals/functiones-et-approximatio-commentarii-mathematici/volume-65/issue-1/A-constraint-for-twist-equivalence-of-cusp-forms-on-GLn/10.7169/facm/1913.full)\] 
 
-* *An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields*, Pacific Journal of Mathematics 304.1 (2020): 347-384. \[[arxiv](https://arxiv.org/pdf/1801.05562)\]
+* *An Explicit CM Type Norm Formula and Effective Nonvanishing of Class Group L-functions for CM Fields*, Pacific Journal of Mathematics 304.1 (2020): 347-384. \[[journal](https://msp.org/pjm/2020/304-1/p12.xhtml)\]
 
 * *Diophantine Inequalities Involving a Prime and an Almost-prime*, Journal of Number Theory, 170 (2017), 347-367. \[[journal](https://www.sciencedirect.com/science/article/pii/S0022314X1630124X)\] 
 
