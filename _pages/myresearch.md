@@ -14,8 +14,6 @@ nav_order: 5
 
 *  (with Zhining Wei and Shifan Zhao) *Low-lying Zeros of Hilbert Modular L-functions Weighted by Powers of Central L-values*, (2025), 37 pages. \[[arxiv](https://arxiv.org/pdf/2508.18469)\] 
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*, (2024). Submitted. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
-
 *  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*,  (2024), 66 pages. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
 
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*, (2023), 79 pages. \[[arxiv](https://arxiv.org/abs/2309.07534)\]  
@@ -32,6 +30,7 @@ nav_order: 5
 
 ## Publications 
 
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*, to appear in Harish-Chandra Centenary Volume. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
 
 * *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. To appear in Algebra and Number Theory (2025). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
 
