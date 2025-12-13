@@ -9,7 +9,9 @@ nav_order: 5
 
 ## Teaching at Caltech
 
-* Fall 2025 -- MA 191A Automorphic L-functions and Arithmetic
+* Winter 2025 -- MA 160b Number Theory: Local Class Field Theory
+
+* Fall 2025 -- MA 191a Automorphic L-functions and Arithmetic
 
 
 <div style="height:0.6rem;"></div>
