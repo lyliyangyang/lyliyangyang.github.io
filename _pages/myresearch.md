@@ -10,27 +10,27 @@ nav_order: 5
 
 ## Preprints 
 
-* *Spectral Reciprocity: A Fourier--Analytic Approach*, (2025), 158 pages. \[[arxiv](https://arxiv.org/pdf/2512.03305)\] 
+* *Spectral Reciprocity: A Fourier--Analytic Approach*, (2025), 158 pages. \[[arXiv](https://arxiv.org/pdf/2512.03305)\] 
 
-*  (with Zhining Wei and Shifan Zhao) *Low-lying Zeros of Hilbert Modular L-functions Weighted by Powers of Central L-values*, (2025), 37 pages. \[[arxiv](https://arxiv.org/pdf/2508.18469)\] 
+*  (with Zhining Wei and Shifan Zhao) *Low-lying Zeros of Hilbert Modular L-functions Weighted by Powers of Central L-values*, (2025), 37 pages. \[[arXiv](https://arxiv.org/pdf/2508.18469)\] 
 
-*  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*,  (2024), 66 pages. \[[arxiv](https://arxiv.org/abs/2410.09593)\] 
+*  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*,  (2024), 66 pages. \[[arXiv](https://arxiv.org/abs/2410.09593)\] 
 
-* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*, (2023), 79 pages. \[[arxiv](https://arxiv.org/abs/2309.07534)\]  
+* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*, (2023), 79 pages. \[[arXiv](https://arxiv.org/abs/2309.07534)\]  
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*, (2023), 152 pages. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
-
-
-* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*, (2023), 92 pages. \[[arxiv](https://arxiv.org/abs/2303.02225)\]
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*, (2023), 152 pages. \[[arXiv](https://arxiv.org/abs/2309.08490)\] 
 
 
-* (with Maksym Radziwill) *Nonvanishing of Twists of GL(4) L-function*, (2023), 45 pages. \[[arxiv](https://arxiv.org/abs/2304.09171)\] 
+* *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*, (2023), 92 pages. \[[arXiv](https://arxiv.org/abs/2303.02225)\]
+
+
+* (with Maksym Radziwill) *Nonvanishing of Twists of GL(4) L-function*, (2023), 45 pages. \[[arXiv](https://arxiv.org/abs/2304.09171)\] 
 
 ## Publications 
 
-* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in *Compositio Mathematica* (2026). \[[arxiv](https://arxiv.org/abs/2305.10719)\]
+* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in *Compositio Mathematica* (2026). \[[arXiv](https://arxiv.org/abs/2305.10719)\]
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. To appear in *Harish-Chandra Centenary Volume*. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. To appear in *Harish-Chandra Centenary Volume*. \[[arXiv](https://arxiv.org/abs/2411.12609)\]  
 
 * *A Coarse Jacquet--Zagier Trace Formula for GL(n) with Applications*. To appear in *Algebra and Number Theory* (2026). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\] 
 
@@ -50,7 +50,7 @@ nav_order: 5
 
 * *Diophantine Inequalities Involving a Prime and an Almost-prime*, *Journal of Number Theory*, 170 (2017), 347-367. \[[journal](https://www.sciencedirect.com/science/article/pii/S0022314X1630124X)\] 
 
-* (with Daniel Goldston) *The Average Number of Goldbach Representations*, in *Prime numbers and representation theory*, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[arxiv](https://arxiv.org/pdf/1601.06902)\] 
+* (with Daniel Goldston) *The Average Number of Goldbach Representations*, in *Prime numbers and representation theory*, Lecture Series of Modern Number Theory, volume 2, (2017), 1-12. \[[arXiv](https://arxiv.org/pdf/1601.06902)\] 
 
 
 
