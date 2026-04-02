@@ -20,8 +20,6 @@ nav_order: 5
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*, (2023), 152 pages. \[[arxiv](https://arxiv.org/abs/2309.08490)\] 
 
-* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*, (2023), 49 pages. \[[arxiv](https://arxiv.org/abs/2305.10719)\]
-
 
 * *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*, (2023), 92 pages. \[[arxiv](https://arxiv.org/abs/2303.02225)\]
 
@@ -30,9 +28,11 @@ nav_order: 5
 
 ## Publications 
 
+* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in Compositio Mathematica (2026). \[[arxiv](https://arxiv.org/abs/2305.10719)\]
+
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*, to appear in Harish-Chandra Centenary Volume. \[[arxiv](https://arxiv.org/abs/2411.12609)\]  
 
-* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. To appear in Algebra and Number Theory (2025). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\]
+* *A Coarse Jacquet-Zagier Trace Formula for GL(n) with Applications*. To appear in Algebra and Number Theory (2026). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\] 
 
 * *Average of Central L-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. Transactions of the American Mathematical Society (2025). \[[journal](https://www.ams.org/journals/tran/2025-378-12/S0002-9947-2025-09548-5/S0002-9947-2025-09548-5.pdf)\]
 
