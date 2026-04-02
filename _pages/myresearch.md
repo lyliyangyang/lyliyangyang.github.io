@@ -32,7 +32,7 @@ nav_order: 5
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. To appear in *Harish-Chandra Centenary Volume*. \[[arXiv](https://arxiv.org/abs/2411.12609)\]  
 
-* *A Coarse Jacquet--Zagier Trace Formula for GL(n) with Applications*. To appear in *Algebra and Number Theory* (2026). \[[pdf](https://drive.google.com/file/d/1WYRQDpVpH0b3jrwCwMBHlszqpxXOeQVw/view?usp=sharing)\] 
+* *A Coarse Jacquet--Zagier Trace Formula for GL(n) with Applications*. To appear in *Algebra and Number Theory* (2026). \[[pdf](https://drive.google.com/file/d/1nadOEuwvvugujevhG6YX-Xlqm8ZaKyVS/view?usp=share_link)\] 
 
 * *Average of Central L-values for* *GL(2)$$\times$$GL(1),* *Hybrid Subconvexity, and Simultaneous Nonvanishing*. *Transactions of the American Mathematical Society* 378 (2025), 8391--8435. \[[journal](https://www.ams.org/journals/tran/2025-378-12/S0002-9947-2025-09548-5/S0002-9947-2025-09548-5.pdf)\] 
 
