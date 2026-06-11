@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints 
 
+* (with Peter Humphries) *Rankin-Selberg Subconvexity via Spectral Reciprocity*, (2026), 134 pages. \[[arXiv](https://arxiv.org/pdf/2606.11451)\] 
+
 * *Spectral Reciprocity: A Fourier--Analytic Approach*, (2025), 158 pages. \[[arXiv](https://arxiv.org/pdf/2512.03305)\] 
 
 *  (with Zhining Wei and Shifan Zhao) *Low-lying Zeros of Hilbert Modular L-functions Weighted by Powers of Central L-values*, (2025), 37 pages. \[[arXiv](https://arxiv.org/pdf/2508.18469)\] 
