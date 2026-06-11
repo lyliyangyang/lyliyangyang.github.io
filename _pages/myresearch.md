@@ -32,6 +32,7 @@ nav_order: 5
 
 ## Publications 
 
+
 * *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in *Compositio Mathematica* (2026). \[[arXiv](https://arxiv.org/abs/2305.10719)\]
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. To appear in *Harish-Chandra Centenary Volume*. \[[arXiv](https://arxiv.org/abs/2411.12609)\]  
