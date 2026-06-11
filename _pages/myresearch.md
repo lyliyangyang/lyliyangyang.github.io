@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Preprints 
 
-<br>
+<h2 style="margin-bottom: 0.4em;">Preprints</h2>
 
 * (with Peter Humphries) *Rankin-Selberg Subconvexity via Spectral Reciprocity*, (2026), 134 pages. \[[arXiv](https://arxiv.org/pdf/2606.11451)\] 
 
