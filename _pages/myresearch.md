@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints 
 
+* *Symmetric Spectral Reciprocity for GL(2) and Uniform Subconvexity*, (2026), 71 pages. \[[arXiv](https://arxiv.org/pdf/2607.04476)\] 
+
 * (with Peter Humphries) *Rankin-Selberg Subconvexity via Spectral Reciprocity*, (2026), 134 pages. \[[arXiv](https://arxiv.org/pdf/2606.11451)\] 
 
 * *Spectral Reciprocity: A Fourier--Analytic Approach*, (2025), 158 pages. \[[arXiv](https://arxiv.org/pdf/2512.03305)\] 
