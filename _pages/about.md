@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Sherman Fairchild Postdoctoral Scholar Teaching Fellow at Caltech. Previously, I was an Instructor and Postdoctoral Research Associate at Princeton University. I received my PhD from Caltech in 2021 under the supervision of [Dinakar Ramakrishnan](http://www.its.caltech.edu/~dinakar/).
+I am an Assistant Professor of Mathematics at Texas A&M University. Previously, I was a Sherman Fairchild Postdoctoral Scholar Teaching Fellow at Caltech and an Instructor and Postdoctoral Research Associate at Princeton University. I received my PhD from Caltech in 2021 under the supervision of [Dinakar Ramakrishnan](http://www.its.caltech.edu/~dinakar/). 
 
 I can be reached at lyyang@caltech.edu. Here is my [CV](https://drive.google.com/file/d/1x-wKgijb5q-erqkCMW7PnySklF6Py-6v/view?usp=sharing). 
 
