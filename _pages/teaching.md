@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+## Teaching at TAMU
+
+* Fall 2026 -- MATH 470 Communications and Cryptography 
+
+
+
 ## Teaching at Caltech
 
 * Winter 2025 -- MA 160b Number Theory: Local Class Field Theory
