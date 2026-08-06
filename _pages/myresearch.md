@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints 
 
+* *Weyl Subconvexity for GL(2) with Simple Supercuspidal Ramification*, (2026), 54 pages. \[[arXiv](https://arxiv.org/pdf/2608.04982)\] 
+
 * *Symmetric Spectral Reciprocity for GL(2) and Uniform Subconvexity*, (2026), 71 pages. \[[arXiv](https://arxiv.org/pdf/2607.04476)\] 
 
 * (with Peter Humphries) *Rankin-Selberg Subconvexity via Spectral Reciprocity*, (2026), 134 pages. \[[arXiv](https://arxiv.org/pdf/2606.11451)\] 
