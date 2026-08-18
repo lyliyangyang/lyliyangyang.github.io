@@ -9,6 +9,8 @@ nav_order: 5
 
 ## Teaching at TAMU
 
+* Spring 2027 -- MATH 427 Introduction to Number Theory 
+
 * Fall 2026 -- MATH 470 Communications and Cryptography 
 
 
