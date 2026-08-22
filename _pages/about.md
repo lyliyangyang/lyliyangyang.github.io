@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor of Mathematics at Texas A&M University. Previously, I was a Sherman Fairchild Postdoctoral Scholar Teaching Fellow at Caltech and an Instructor and Postdoctoral Research Associate at Princeton University. I received my PhD from Caltech in 2021 under the supervision of [Dinakar Ramakrishnan](http://www.its.caltech.edu/~dinakar/). 
 
-I can be reached at liyangy@tamu.edu. Here is my [CV](https://drive.google.com/file/d/1ChRg-kWt9XJOck2PiHAug5s0A9vlWJZj/view?usp=sharing). 
+I can be reached at liyangy@tamu.edu. Here is my [CV](https://drive.google.com/file/d/1ApYSDJSiUr7T3Twne15Y1d_t0kmWf6Zt/view?usp=sharing). 
 
 
 
