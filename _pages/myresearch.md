@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints 
 
+* *Fourier Spectral Reciprocity and Canonical Hecke L-Functions*, (2026), 31 pages. \[[arXiv](https://arxiv.org/pdf/2608.23886)\] 
+
 * *Weyl Subconvexity for GL(2) with Simple Supercuspidal Ramification*, (2026), 54 pages. \[[arXiv](https://arxiv.org/pdf/2608.04982)\] 
 
 * *Symmetric Spectral Reciprocity for GL(2) and Uniform Subconvexity*, (2026), 71 pages. \[[arXiv](https://arxiv.org/pdf/2607.04476)\] 
