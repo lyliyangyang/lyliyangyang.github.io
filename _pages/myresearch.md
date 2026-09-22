@@ -26,7 +26,6 @@ nav_order: 5
 
 * *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*, (2023), 79 pages. \[[arXiv](https://arxiv.org/abs/2309.07534)\]  
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*, (2023), 152 pages. \[[arXiv](https://arxiv.org/abs/2309.08490)\] 
 
 
 * *Relative Trace Formula and L-functions for GL(n+1)$$\times$$GL(n)*, (2023), 92 pages. \[[arXiv](https://arxiv.org/abs/2303.02225)\]
@@ -35,6 +34,8 @@ nav_order: 5
 * (with Maksym Radziwill) *Nonvanishing of Twists of GL(4) L-function*, (2023), 45 pages. \[[arXiv](https://arxiv.org/abs/2304.09171)\] 
 
 ## Publications 
+
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. To appear in *Journal of the Association for Mathematical Research* (2026). \[[arXiv](https://arxiv.org/abs/2309.08490)\] 
 
 
 * *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in *Compositio Mathematica* (2026). \[[arXiv](https://arxiv.org/abs/2305.10719)\]
