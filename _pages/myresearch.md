@@ -35,7 +35,7 @@ nav_order: 5
 
 ## Publications 
 
-*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(3)$$\times$$U(2), Relative Trace Formula and Non-vanishing of Central L-values*. To appear in *Journal of the Association for Mathematical Research* (2026). \[[arXiv](https://arxiv.org/abs/2309.08490)\] 
+*  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(2,1)$$\times$$U(1,1), Relative Trace Formula and Non-vanishing of Central L-values*. To appear in *Journal of the Association for Mathematical Research* (2026). \[[arXiv](https://arxiv.org/abs/2309.08490)\] 
 
 
 * *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in *Compositio Mathematica* (2026). \[[arXiv](https://arxiv.org/abs/2305.10719)\]
