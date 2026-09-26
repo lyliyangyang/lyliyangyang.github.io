@@ -17,7 +17,7 @@ nav_order: 5
 
 ## Teaching at Caltech
 
-* Winter 2025 -- MA 160b Number Theory: Local Class Field Theory
+* Winter 2026 -- MA 160b Number Theory: Local Class Field Theory
 
 * Fall 2025 -- MA 191a Automorphic L-functions and Arithmetic
 
