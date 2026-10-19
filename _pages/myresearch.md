@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Preprints 
 
+* *A Non-Split Motohashi Formula for Toric Periods over Number Fields*, (2026), 62 pages. \[[arXiv](https://arxiv.org/abs/2610.22728)\] 
+
 * *Fourier Spectral Reciprocity and Canonical Hecke L-Functions*, (2026), 31 pages. \[[arXiv](https://arxiv.org/pdf/2608.23886)\] 
 
 * *Weyl Subconvexity for GL(2) with Simple Supercuspidal Ramification*, (2026), 54 pages. \[[arXiv](https://arxiv.org/pdf/2608.04982)\] 
