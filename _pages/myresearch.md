@@ -40,7 +40,8 @@ nav_order: 5
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Bessel Periods on U(2,1)$$\times$$U(1,1), Relative Trace Formula and Non-vanishing of Central L-values*. To appear in *Journal of the Association for Mathematical Research* (2026). \[[arXiv](https://arxiv.org/abs/2309.08490)\] 
 
 
-* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. To appear in *Compositio Mathematica* (2026). \[[arXiv](https://arxiv.org/abs/2305.10719)\]
+* *Relative Trace Formula and Twisted L-functions: the Burgess Bound*. *Compositio Mathematica* **162** (2026), no. 11, 2591–2641. \[[Journal](https://doi.org/10.1017/S0010437X26103327)\] 
+
 
 *  (with Philippe Michel and Dinakar Ramakrishnan) *Relative Trace Formula and Simultaneous Nonvanishing for* *GL(3)$$\times$$GL(1)* *and* *GL(3)$$\times$$GL(2)* *L-functions*. To appear in *Harish-Chandra Centenary Volume*. \[[arXiv](https://arxiv.org/abs/2411.12609)\]  
 
