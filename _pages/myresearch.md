@@ -12,11 +12,11 @@ nav_order: 5
 
 * *A Non-Split Motohashi Formula for Toric Periods over Number Fields*, (2026), 62 pages. \[[arXiv](https://arxiv.org/abs/2610.22728)\] 
 
-* *Fourier Spectral Reciprocity and Canonical Hecke L-Functions*, (2026), 31 pages. \[[arXiv](https://arxiv.org/pdf/2608.23886)\] 
+* *Fourier Spectral Reciprocity and Canonical Hecke L-Functions*, (2026), 31 pages. \[[arXiv](https://arxiv.org/abs/2608.23886)\] 
 
-* *Weyl Subconvexity for GL(2) with Simple Supercuspidal Ramification*, (2026), 54 pages. \[[arXiv](https://arxiv.org/pdf/2608.04982)\] 
+* *Weyl Subconvexity for GL(2) with Simple Supercuspidal Ramification*, (2026), 54 pages. \[[arXiv](https://arxiv.org/abs/2608.04982)\] 
 
-* *Symmetric Spectral Reciprocity for GL(2) and Uniform Subconvexity*, (2026), 71 pages. \[[arXiv](https://arxiv.org/abs/2607.04476)\] 
+* *Symmetric Spectral Reciprocity for GL(2) and Uniform Subconvexity*, (2026), 73 pages. \[[arXiv](https://arxiv.org/abs/2607.04476)\] 
 
 * (with Peter Humphries) *Rankin-Selberg Subconvexity via Spectral Reciprocity*, (2026), 134 pages. \[[arXiv](https://arxiv.org/pdf/2606.11451)\] 
 
@@ -26,7 +26,7 @@ nav_order: 5
 
 *  (with Zhining Wei and Shifan Zhao) *Relative Trace Formula and Uniform non-vanishing of Central L-values of Hilbert Modular Forms*,  (2024), 66 pages. \[[arXiv](https://arxiv.org/abs/2410.09593)\] 
 
-* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*, (2023), 79 pages. \[[arXiv](https://arxiv.org/abs/2309.07534)\]  
+* *Relative Trace Formula, Subconvexity and Quantitative Nonvanishing of Rankin-Selberg L-functions for* *GL(n+1)$$\times$$GL(n)*, (2023), 67 pages. \[[arXiv](https://arxiv.org/abs/2309.07534)\]  
 
 
 
